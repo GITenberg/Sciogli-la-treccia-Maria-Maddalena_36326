@@ -1,0 +1,29 @@
+_repo: Sciogli-la-treccia-Maria-Maddalena_36326
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36326-rst/images/cover.jpg
+creator:
+  author:
+    agent_name: Verona, Guido da
+    alias: Da Verona, Guido
+    birthdate: 1881
+    deathdate: 1939
+    gutenberg_agent_id: '38208'
+    url: http://www.gutenberg.org/2009/agents/38208
+    wikipedia: http://it.wikipedia.org/wiki/Guido_da_Verona
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2011-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36326'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian fiction'
+title: Sciogli la treccia, Maria Maddalena; romanzo
+url: http://www.gutenberg.org/ebooks/36326
